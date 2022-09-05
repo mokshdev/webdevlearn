@@ -1,0 +1,19 @@
+/* style*/
+div {
+    color: blue;
+}
+
+.alerttext{
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#title{
+    background-color: red;
+}
+
+
+.ancestor .contents {
+    /* some declarations */
+  }
